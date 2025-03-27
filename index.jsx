@@ -108,3 +108,10 @@ const InfiniteScrollDa = ({ firstArray, secondArray, infScrollType }) => {
 };
 
 export default InfiniteScrollDa;
+
+
+
+
+
+
+// https://youtu.be/qcfXA3uAD30?si=S8Y_1bfemLASctlV
